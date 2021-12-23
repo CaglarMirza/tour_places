@@ -3,6 +3,8 @@
 
 # Project-001 : Tour Places (RC-01)
 
+Link [tour-project](https://tourplaces001.netlify.app/)
+
 ## Description
 
 Project aims to create a tour places app.
